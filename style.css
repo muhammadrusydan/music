@@ -43,6 +43,9 @@ body{
   align-items: center;
   justify-content: space-between;
 }
+.h4 {
+  background-color: #050505;
+}
 .top-bar i{
   font-size: 30px;
   color: var(--lightblack);
